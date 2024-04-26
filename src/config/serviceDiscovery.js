@@ -1,0 +1,3 @@
+const config = require('./index');
+
+// Service discovery logic here...

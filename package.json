@@ -24,5 +24,14 @@
   "bugs": {
     "url": "https://github.com/ajyku/nodejs-microservice-boilerplate/issues"
   },
-  "homepage": "https://github.com/ajyku/nodejs-microservice-boilerplate#readme"
+  "homepage": "https://github.com/ajyku/nodejs-microservice-boilerplate#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-validator": "^7.0.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.3.2"
+  },
+  "devDependencies": {
+    "supertest": "^7.0.0"
+  }
 }
