@@ -15,9 +15,9 @@
     "url": "git+https://github.com/ajyku/nodejs-microservice-boilerplate.git"
   },
   "keywords": [
-    "\"nodejs",
+    "nodejs",
     "microservice",
-    "boilerplate\""
+    "boilerplate"
   ],
   "author": "Ajay Kumar",
   "license": "ISC",
