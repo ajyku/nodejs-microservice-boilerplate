@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-microservice-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajyku/nodejs-microservice-boilerplate.git"
+  },
+  "keywords": [
+    "\"nodejs",
+    "microservice",
+    "boilerplate\""
+  ],
+  "author": "Ajay Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajyku/nodejs-microservice-boilerplate/issues"
+  },
+  "homepage": "https://github.com/ajyku/nodejs-microservice-boilerplate#readme"
+}
