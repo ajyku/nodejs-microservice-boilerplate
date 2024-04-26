@@ -4,7 +4,8 @@
   "description": "",
   "main": "server.js",
   "directories": {
-    "test": "tests"
+    "test": "tests",
+    "start": "node server"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
